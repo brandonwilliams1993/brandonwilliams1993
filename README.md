@@ -1,5 +1,5 @@
 - Hello, My name is Brandon Cruz
-- Im currently working towards being a Software Developer
+- Im currently working towards being a Full-Stack Software Developer
 - Im currently learning and multiple Front-End skillsets such as JavaScript, HTML, CSS, SQL, Swift, TypeScript, React and React Native, as well as Back-End skillsets such as Python, MongoDB, Express, Nodejs and so much more..
 - I am open to collaborating.
 - You can reach me at brandonwilliams1993@yahoo.com 
